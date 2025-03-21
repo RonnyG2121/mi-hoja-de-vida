@@ -1,3 +1,6 @@
 #img_principal {
     width: 200px;
 }
+.fecha {
+    text-align: right;
+}
